@@ -4,13 +4,10 @@ Welcome to my technical portfolio. This repository documents my practical experi
 
 ## Portfolio Structure
 
-* 01-cloud-security-foundation-brief.md
+* [01-cloud-security-foundation-brief.md](./01-cloud-security-foundation-brief.md)
   This file covers the core understanding of cloud identity using Microsoft Entra ID, MFA policies, and the shared responsibility model.
-  
-* 02-email-security-brief.md
-  This file explains domain protection protocols including SPF, DKIM, and DMARC configuration to prevent phishing attacks.
 
-* cv-star-stories.md
+* [cv-star-stories.md](./cv-star-stories.md)
   This file contains real-world operational scenarios detailed in the STAR format, covering identity verification and incident response.
 
 ---
