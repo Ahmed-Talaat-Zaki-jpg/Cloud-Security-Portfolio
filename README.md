@@ -4,7 +4,7 @@ Welcome to my technical portfolio. This repository documents my practical experi
 
 ## Portfolio Structure
 
-* [01-cloud-security-foundation-brief.md](./01-cloud-security-foundation-brief.md)
+* [01-cloud-security-foundation-brief.md](./cloud-security-foundation-brief.md)
   This file covers the core understanding of cloud identity using Microsoft Entra ID, MFA policies, and the shared responsibility model.
 
 * [cv-star-stories.md](./cv-star-stories.md)
